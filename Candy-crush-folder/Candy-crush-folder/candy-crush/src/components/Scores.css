@@ -1,0 +1,28 @@
+.score-board{
+
+    color:rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+#card-score-card{
+
+    border-radius: 10px;
+    height:310px;
+    margin:100px;
+    padding:5px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgba(255, 255, 255, 0.236);
+}
+
+.score-text{
+
+    
+    background-color: rgb(51, 74, 84);
+    max-width: 50%;
+    margin-left: 25%;
+    border-radius: 45%;
+   
+}
+
